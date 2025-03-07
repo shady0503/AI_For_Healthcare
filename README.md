@@ -1,4 +1,4 @@
-Chronic Disease Progression Predictor
+# Chronic Disease Progression Predictor
 
 ## Overview
 The Chronic Disease Progression Predictor is an AI-powered system designed to forecast disease trajectories for diabetes patients. The system analyzes patient data to predict future health outcomes, enabling earlier interventions and personalized treatment plans.
